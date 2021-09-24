@@ -20,7 +20,7 @@ int main()
 void odd (int x)
 {
     if(x%2==0){
-        cout << "Bilangan Genap !!" << endl;
+        cout << "Bilangan Genap !!/n";
     }else{ cout << "Bilangan Ganjil !!" << endl;
 }
 }
