@@ -3,7 +3,6 @@ using namespace std;
 
 int main(){
     int a;
-    int l=0;
    cout << "Input = ";
    cin >> a;
    cout << "Output =\n";
